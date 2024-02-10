@@ -30,14 +30,14 @@ MASTER_WRITE:
     type: bytes
     main_offset: 0x81434
     value_type: uint32
-    value: 0x94339A8B
+    value: 0x94339B9B
   -
     type: bytes
-    main_offset: 0xD67E60
+    main_offset: 0xD682A0
     value_type: uint32
     value: 
       - 0x1E227821
-      - 0xF0036754
+      - 0xD0036754
       - 0xBD050681
       - 0xD65F03C0
   - # Read lowest timing float factor from MAIN+0x7A52504
